@@ -3,4 +3,4 @@
   - mesos1.png mesos两级架构图
   
   
-  -- https://github.com/liuyi01/kubernetes-starter/tree/master/docs
+k8 集群文档 https://github.com/liuyi01/kubernetes-starter/tree/master/docs
